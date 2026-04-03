@@ -177,8 +177,10 @@ while True:
 AHHH credi cryptolord per il coso art
 (É VENUTO VERAMENTE IL KING DEGLI SCAM A CHIEDERE CREDITI)
 NON SONO RESPONSABILE DI NESSUNA AZIONE
+HO DIMENTICATO LA S ALLA FINE DEL TITOLO AHHHHHHHH 
+
 ''')
-    print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print("67━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━67")
     print(menu_color + " [1] 📩 SBANNA PER UN TOT DI TEMPO")
     print(menu_color + " [2] 🚫 SBANNA PER SEMPRE (É OIU INUTILE DI UN TELEFONO SENZA SCHERMO)")
     print(menu_color + " [3] 🔍  CHECK BAN (PER ORA FUNZIONA MALE)")
