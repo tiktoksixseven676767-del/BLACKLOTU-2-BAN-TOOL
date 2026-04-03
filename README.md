@@ -1,3 +1,15 @@
-# Empty Repo
+# BLACK LOTUS BAN TOOL
 
-Used as an example remote repo for git tutorial
+NON SONO RESPONSABILE DI NESSUNA AZIONE
+
+
+
+pkg install git
+
+pip install colorama 
+
+pip install requests
+
+git clone https://github.com/tiktoksixseven676767-del/BAN-WHATSAPP-TOOL-MAZZU-
+cd BAN-WHATSAPP-TOOL-MAZZU-
+python ban.py
