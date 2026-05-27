@@ -137,7 +137,7 @@ def send_email(subject, body, max_emails=None):
 # ===== Login screen =====
 while True:
     banner_color = random.choice([Fore.GREEN, Fore.CYAN, Fore.MAGENTA])
-    print(banner_color + "📲 BLACK LOTUS WHATSAPP BAN TOOL")
+    print(banner_color + "📲 MAZZU WHATSAPP BAN TOOL")
 
 
 
@@ -158,8 +158,8 @@ while True:
 # ===== Main Menu =====
 while True:
     clear()
-    menu_color = random.choice([Fore.BLUE, Fore.YELLOW, Fore.CYAN])
-    print(menu_color + "🛠️ BLACK LOTUS BAN UNBAN TOOL-BY MAZZU")
+    menu_color = random.choice([Fore.BLUE, Fore.YELLOW, Fore.CYAN]) 
+    print(menu_color + "🛠️ BAN UNBAN TOOL-BY MAZZU")
     print(menu_color + r'''
 ⠀⠀⠀    ⣠⣶⣶⣶⣶
 ⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -182,7 +182,7 @@ HO DIMENTICATO LA S ALLA FINE DEL TITOLO AHHHHHHHH
 ''')
     print("67━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━67")
     print(menu_color + " [1] 📩 SBANNA PER UN TOT DI TEMPO")
-    print(menu_color + " [2] 🚫 SBANNA PER SEMPRE (É OIU INUTILE DI UN TELEFONO SENZA SCHERMO)")
+    print(menu_color + " [2] 🚫 SBANNA PER SEMPRE (É PIU INUTILE DI UN TELEFONO SENZA SCHERMO)")
     print(menu_color + " [3] 🔍  CHECK BAN (PER ORA FUNZIONA MALE)")
     print(menu_color + " [4] ⚠️ SEGNIALA SCAM NUMBER (QUINDI BAN TEMPORANEO)")
     print(menu_color + " [5] 💀 SEGIALA FORTE (PERMABAN)")
