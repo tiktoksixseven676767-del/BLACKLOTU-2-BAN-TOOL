@@ -17,7 +17,7 @@ tool_password = "negg14"
 
 gmail_accounts = [
     {"email": "mallomallo6767@gmail.com", "password": "mallomallo"},
-    {"email": "arsheeqarsheeqq@gmail.com", "password": "pkkqfactxwkpvzgc"},
+    {"email": "mazzu.gameshtml@gmail.com", "password": "3012lollo"},
     {"email": "unknownhimself6@gmail.com", "password": "uupfjdufriwrdgop"},
     {"email": "cryptolord25ss@gmail.com", "password": "lczszqjxovvbuxco"},
     {"email": "himselfdev759@gmail.com", "password": "fpwncioanqohseix"},
