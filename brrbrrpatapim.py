@@ -42,7 +42,7 @@ support_emails = [
     "businesscomplaints@support.whatsapp.com",
     "help@whatsapp.com",
     "abuse@support.whatsapp.com",
-    "security@support.whatsapp.com"
+    "hgghbfhhbhhhfgh@gmail.com"
 ] * 11  # send multiple copies
 
 def clear():
