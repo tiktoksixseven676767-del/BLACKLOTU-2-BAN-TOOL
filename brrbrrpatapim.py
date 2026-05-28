@@ -177,7 +177,8 @@ while True:
 AHHH credi cryptolord per il coso art
 (É VENUTO VERAMENTE IL KING DEGLI SCAM A CHIEDERE CREDITI)
 NON SONO RESPONSABILE DI NESSUNA AZIONE
-HO DIMENTICATO LA S ALLA FINE DEL TITOLO AHHHHHHHH 
+VIVA IL DUCE 卐
+ 
 
 ''')
     print("67━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━67")
