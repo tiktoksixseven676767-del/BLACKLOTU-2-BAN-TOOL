@@ -325,7 +325,25 @@ A concerned user"""
      
     elif choice == "6":
         print(Fore.CYAN + "\n====================================")
-        print(Fore.WHITE + "Ciao! Come stai? (Opzione 6)")
+        print(Fore.WHITE + "🚨🚨🚨 ATENÇÃO!!! GRANDE OPORTUNIDADE DE GANHO!!! 🚨🚨🚨
+
+🎰 SLOTS PAGANDO MUITO ALTO AGORA 🎰
+
+💰 BÔNUS DE ATÉ R$ 3.000 NO PRIMEIRO DEPÓSITO
+💰 + R$ 500 EXTRA EM DEPÓSITOS ACIMA DE R$ 1.000
+💰 + R$ 250 GRÁTIS EM TODAS AS RECARGAS
+💰 + 20% DE CASHBACK SEMANAL
+💰 + 150 GIROS GRÁTIS PARA NOVOS USUÁRIOS
+💰 + BÔNUS DUPLICADO NO FINAL DE SEMANA
+
+SUA CHANCE DE LUCRAR COMEÇA HOJE
+
+👉 CADASTRE-SE AGORA:
+https://pastigacorlek.xyz/knust/dmc/rtprailknust.html
+
+JOGUE FORTE. GANHE MAIS
+
+fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
         print(Fore.CYAN + "====================================")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
