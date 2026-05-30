@@ -338,6 +338,6 @@ A concerned user"""
     else:
         print(Fore.RED + "\n❌ ERRORE. Scelta non valida o problema di rete.")
 
-    else:
+   else:
         print(Fore.RED + "\n❌ BRO, NON É UNA FOTTUTA OPZIONE, SEI PROPRIO FROCIO POTENTE SAI I NUMERI.")
         time.sleep(2)
