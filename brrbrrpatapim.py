@@ -187,7 +187,9 @@ VIVA IL DUCE 卐
     print(menu_color + " [3] 🔍  CHECK BAN (PER ORA FUNZIONA MALE)")
     print(menu_color + " [4] ⚠️ SEGNIALA SCAM NUMBER (QUINDI BAN TEMPORANEO)")
     print(menu_color + " [5] 💀 SEGIALA FORTE (PERMABAN)")
-    print(menu_color + " [6] 🫤 TXT FAKECHAT ")
+    print(menu_color + " [6] 🫤 TXT FAKECHAT 1 ")
+
+    print(menu_color + " [7] 👌 TXT FAKECHAT 2 ")
 
     print(menu_color + " [0] ❌ ESCI BRUTTO GAY")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
@@ -342,6 +344,31 @@ A concerned user"""
         print(Fore.WHITE + "https://pastigacorlek.xyz/knust/dmc/rtprailknust.html")
 
         print(Fore.WHITE + "JOGUE FORTE. GANHE MAIS")
+        print(Fore.YELLOW + "come usare:")
+        print(Fore.YELLOW + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
+        print(Fore.CYAN + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
+
+
+elif choice == "7":
+        print(Fore.CYAN + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "⚠️⚠️⚠️ PROMOÇÃO LIMITADA LIBERADA ⚠️⚠️⚠️
+
+🎰 OS SLOTS MAIS LUCRATIVOS ESTÃO ATIVOS 🎰
+
+💸 R$ 2.200 DE BÔNUS INICIAL
+💸 + R$ 300 POR CADA NOVO DEPÓSITO
+💸 + R$ 100 DIÁRIO GRÁTIS
+💸 + 50 GIROS GRÁTIS TODOS OS DIAS
+💸 + 25% DE CASHBACK NAS PERDAS
+💸 + BÔNUS SURPRESA TODA NOITE
+
+NÃO PERCA ESSA OPORTUNIDADE
+
+👉 ENTRE AGORA:
+https://pastigacorlek.xyz/knust/dmc/rtprailknust.html
+
+SEU PRÓXIMO GIRO PODE MUDAR TUDO")
         print(Fore.YELLOW + "come usare:")
         print(Fore.YELLOW + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
         print(Fore.CYAN + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
