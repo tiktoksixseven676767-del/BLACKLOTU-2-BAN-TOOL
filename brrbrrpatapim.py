@@ -181,7 +181,7 @@ VIVA IL DUCE 卐
  
 
 ''')
-    print("67━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━67")
+    print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
     print(menu_color + " [1] 📩 SBANNA PER UN TOT DI TEMPO")
     print(menu_color + " [2] 🚫 SBANNA PER SEMPRE (É PIU INUTILE DI UN TELEFONO SENZA SCHERMO)")
     print(menu_color + " [3] 🔍  CHECK BAN (PER ORA FUNZIONA MALE)")
@@ -326,7 +326,7 @@ A concerned user"""
     
      
     elif choice == "6":
-        print(Fore.CYAN + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.WHITE + "🚨🚨🚨 ATENÇÃO!!! GRANDE OPORTUNIDADE DE GANHO!!! 🚨🚨🚨")
 
         print(Fore.WHITE + "🎰 SLOTS PAGANDO MUITO ALTO AGORA 🎰")
@@ -344,14 +344,15 @@ A concerned user"""
         print(Fore.WHITE + "https://pastigacorlek.xyz/knust/dmc/rtprailknust.html")
 
         print(Fore.WHITE + "JOGUE FORTE. GANHE MAIS")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.YELLOW + "come usare:")
         print(Fore.YELLOW + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
-        print(Fore.CYAN + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
 
     elif choice == "7":
-        print(Fore.CYAN + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.WHITE + "⚠️⚠️⚠️ PROMOÇÃO LIMITADA LIBERADA ⚠️⚠️⚠️")
 
         print(Fore.WHITE + "🎰 OS SLOTS MAIS LUCRATIVOS ESTÃO ATIVOS 🎰")
@@ -369,9 +370,10 @@ A concerned user"""
         print(Fore.WHITE + "https://pastigacorlek.xyz/knust/dmc/rtprailknust.html")
 
         print(Fore.WHITE + "SEU PRÓXIMO GIRO PODE MUDAR TUDO")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.YELLOW + "come usare:")
         print(Fore.YELLOW + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
-        print(Fore.CYAN + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
     elif choice == "0":
