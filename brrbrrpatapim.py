@@ -342,7 +342,7 @@ A concerned user"""
         print(Fore.WHITE + "https://pastigacorlek.xyz/knust/dmc/rtprailknust.html")
 
         print(Fore.WHITE + "JOGUE FORTE. GANHE MAIS")
-print(Fore.WHITE + "come usare:")
+        print(Fore.WHITE + "come usare:")
         print(Fore.WHITE + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
         print(Fore.CYAN + "====================================")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
