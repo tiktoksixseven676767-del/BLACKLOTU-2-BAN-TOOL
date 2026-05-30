@@ -187,6 +187,8 @@ VIVA IL DUCE 卐
     print(menu_color + " [3] 🔍  CHECK BAN (PER ORA FUNZIONA MALE)")
     print(menu_color + " [4] ⚠️ SEGNIALA SCAM NUMBER (QUINDI BAN TEMPORANEO)")
     print(menu_color + " [5] 💀 SEGIALA FORTE (PERMABAN)")
+print(menu_color + " [6] 🫤 TXT FAKECHAT ")
+
     print(menu_color + " [0] ❌ ESCI BRUTTO GAY")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
@@ -317,7 +319,17 @@ A concerned user"""
             success, fail = send_email(subject, body)
             if success > 0:
                 print(Fore.GREEN + f"\n✅ FATTO {target}.\nCONTROLLA TRA UN PO DI TEMPO.")
-            else:
+    
+
+elif scelta == '6':
+    print(f"\n{Fore.GREEN}Hai selezionato l'opzione 6:")
+    print(f"{Fore.WHITE}Ciao! Come stai? Questa è la mia descrizione personalizzata.")
+    # Se vuoi che lo script si fermi un attimo a farti leggere:
+    input("\nPremi Invio per tornare al menu...")
+
+
+
+        else:
                 print(Fore.RED + "\n❌ DIO CANE ERRORE. Check credentials/network.")
     elif choice == "0":
         print(Fore.YELLOW + "\n👋 ADDIO, É STATO BELLO CONOSCERTI BY MAZZU!")
