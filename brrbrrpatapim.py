@@ -329,11 +329,11 @@ A concerned user"""
         print(Fore.CYAN + "====================================")
         input(Fore.YELLOW + "\nPremi Invio per continuare...")
 
-     elif choice == "0":
+    elif choice == "0":
         print(Fore.YELLOW + "\n👋 ADDIO, É STATO BELLO CONOSCERTI BY MAZZU!")
         break
 
-    else:
+   else:
         print(Fore.RED + "\n❌ ERRORE. Scelta non valida o problema di rete.")
 
      else:
