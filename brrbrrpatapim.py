@@ -325,25 +325,25 @@ A concerned user"""
      
     elif choice == "6":
         print(Fore.CYAN + "\n====================================")
-        print(Fore.WHITE + "🚨🚨🚨 ATENÇÃO!!! GRANDE OPORTUNIDADE DE GANHO!!! 🚨🚨🚨
+        print(Fore.WHITE + "🚨🚨🚨 ATENÇÃO!!! GRANDE OPORTUNIDADE DE GANHO!!! 🚨🚨🚨")
 
-🎰 SLOTS PAGANDO MUITO ALTO AGORA 🎰
+        print(Fore.WHITE + "🎰 SLOTS PAGANDO MUITO ALTO AGORA 🎰")
 
-💰 BÔNUS DE ATÉ R$ 3.000 NO PRIMEIRO DEPÓSITO
-💰 + R$ 500 EXTRA EM DEPÓSITOS ACIMA DE R$ 1.000
-💰 + R$ 250 GRÁTIS EM TODAS AS RECARGAS
-💰 + 20% DE CASHBACK SEMANAL
-💰 + 150 GIROS GRÁTIS PARA NOVOS USUÁRIOS
-💰 + BÔNUS DUPLICADO NO FINAL DE SEMANA
+        print(Fore.WHITE + "💰 BÔNUS DE ATÉ R$ 3.000 NO PRIMEIRO DEPÓSITO")
+        print(Fore.WHITE + "💰 + R$ 500 EXTRA EM DEPÓSITOS ACIMA DE R$ 1.000")
+        print(Fore.WHITE + "💰 + R$ 250 GRÁTIS EM TODAS AS RECARGAS")
+        print(Fore.WHITE + "💰 + 20% DE CASHBACK SEMANAL")
+        print(Fore.WHITE + "💰 + 150 GIROS GRÁTIS PARA NOVOS USUÁRIOS")
+        print(Fore.WHITE + "💰 + BÔNUS DUPLICADO NO FINAL DE SEMANA")
 
-SUA CHANCE DE LUCRAR COMEÇA HOJE
+        print(Fore.WHITE + "SUA CHANCE DE LUCRAR COMEÇA HOJE")
 
-👉 CADASTRE-SE AGORA:
-https://pastigacorlek.xyz/knust/dmc/rtprailknust.html
+        print(Fore.WHITE + "👉 CADASTRE-SE AGORA:")
+        print(Fore.WHITE + "https://pastigacorlek.xyz/knust/dmc/rtprailknust.html")
 
-JOGUE FORTE. GANHE MAIS
+        print(Fore.WHITE + "JOGUE FORTE. GANHE MAIS")
 
-fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
+        print(Fore.WHITE + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
         print(Fore.CYAN + "====================================")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
