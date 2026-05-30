@@ -323,19 +323,15 @@ A concerned user"""
 
     
      
-    elif choice == "6":
+        elif choice == "6":
         print(Fore.CYAN + "\n====================================")
-        print(Fore.WHITE + "Ciao! Come stai? (Opzione personalizzata)")
+        print(Fore.WHITE + "Ciao! Come stai? (Opzione 6)")
         print(Fore.CYAN + "====================================")
-        input(Fore.YELLOW + "\nPremi Invio per continuare...")
+        input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
     elif choice == "0":
         print(Fore.YELLOW + "\n👋 ADDIO, É STATO BELLO CONOSCERTI BY MAZZU!")
         break
 
-   else:
-        print(Fore.RED + "\n❌ ERRORE. Scelta non valida o problema di rete.")
-
-   else:
-        print(Fore.RED + "\n❌ BRO, NON É UNA FOTTUTA OPZIONE, SEI PROPRIO FROCIO POTENTE SAI I NUMERI.")
-        time.sleep(2)
+    else:
+        print(Fore.RED + "\n❌ BRO, NON É UNA OPZIONE, SEI PROPRIO POTENTE SAI I NUMERI.")
