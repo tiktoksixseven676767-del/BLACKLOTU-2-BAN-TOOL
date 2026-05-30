@@ -12,8 +12,8 @@ from colorama import Fore, Style, init
 
 init(autoreset=True)
 
-tool_username = "Black Lotus123321"
-tool_password = "negg14"
+tool_username = "mazzu"
+tool_password = "123"
 
 gmail_accounts = [
     {"email": "mallomallo6767@gmail.com", "password": "mallomallo"},
@@ -342,7 +342,7 @@ A concerned user"""
         print(Fore.WHITE + "https://pastigacorlek.xyz/knust/dmc/rtprailknust.html")
 
         print(Fore.WHITE + "JOGUE FORTE. GANHE MAIS")
-
+print(Fore.WHITE + "come usare:")
         print(Fore.WHITE + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
         print(Fore.CYAN + "====================================")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
