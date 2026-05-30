@@ -323,7 +323,7 @@ A concerned user"""
 
     
      
-        elif choice == "6":
+    elif choice == "6":
         print(Fore.CYAN + "\n====================================")
         print(Fore.WHITE + "Ciao! Come stai? (Opzione 6)")
         print(Fore.CYAN + "====================================")
