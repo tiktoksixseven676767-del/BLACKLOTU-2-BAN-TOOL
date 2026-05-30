@@ -321,11 +321,19 @@ A concerned user"""
                 print(Fore.GREEN + f"\n✅ FATTO {target}.\nCONTROLLA TRA UN PO DI TEMPO.")
     
 
-elif scelta == '6':
-    print(f"\n{Fore.GREEN}Hai selezionato l'opzione 6:")
-    print(f"{Fore.WHITE}Ciao! Come stai? Questa è la mia descrizione personalizzata.")
-    # Se vuoi che lo script si fermi un attimo a farti leggere:
-    input("\nPremi Invio per tornare al menu...")
+    elif scelta == '5':
+        # Qui ci sarà il codice vecchio del numero 5...
+        pass 
+
+    elif scelta == '6':
+        print(f"\n{Fore.CYAN}================================")
+        print(f"{Fore.WHITE}Ciao! Come stai?")
+        print(f"{Fore.CYAN}================================{Style.RESET_ALL}")
+        input("\nPremi Invio per tornare al menu...")
+
+    else:
+        print(f"{Fore.RED}Scelta non valida!")
+
 
 
 
