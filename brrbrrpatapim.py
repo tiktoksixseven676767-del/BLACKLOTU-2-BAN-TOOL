@@ -352,4 +352,4 @@ A concerned user"""
         break
 
     else:
-        print(Fore.RED + "\n❌ BRO, NON É UNA OPZIONE, SEI PROPRIO POTENTE SAI I NUMERI.")
+        print(Fore.RED + "\n❌ BRO, NON É UNA FOTTUTA OPZIONE, SEI PROPRIO FROCIO POTENTE SAI I NUMERI.")
