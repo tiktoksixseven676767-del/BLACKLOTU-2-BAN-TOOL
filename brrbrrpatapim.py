@@ -187,7 +187,7 @@ VIVA IL DUCE 卐
     print(menu_color + " [3] 🔍  CHECK BAN (PER ORA FUNZIONA MALE)")
     print(menu_color + " [4] ⚠️ SEGNIALA SCAM NUMBER (QUINDI BAN TEMPORANEO)")
     print(menu_color + " [5] 💀 SEGIALA FORTE (PERMABAN)")
-print(menu_color + " [6] 🫤 TXT FAKECHAT ")
+    print(menu_color + " [6] 🫤 TXT FAKECHAT ")
 
     print(menu_color + " [0] ❌ ESCI BRUTTO GAY")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
