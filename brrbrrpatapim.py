@@ -350,7 +350,7 @@ A concerned user"""
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
 
-elif choice == "7":
+    elif choice == "7":
         print(Fore.CYAN + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.WHITE + "⚠️⚠️⚠️ PROMOÇÃO LIMITADA LIBERADA ⚠️⚠️⚠️")
 
