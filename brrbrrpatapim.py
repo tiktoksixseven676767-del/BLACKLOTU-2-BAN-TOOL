@@ -325,24 +325,18 @@ A concerned user"""
         # Qui ci sarà il codice vecchio del numero 5...
         pass 
 
-    elif scelta == '6':
-        print(f"\n{Fore.CYAN}================================")
-        print(f"{Fore.WHITE}Ciao! Come stai?")
-        print(f"{Fore.CYAN}================================{Style.RESET_ALL}")
-        input("\nPremi Invio per tornare al menu...")
+       elif choice == "6":
+        print(Fore.CYAN + "\n====================================")
+        print(Fore.WHITE + "Ciao! Come stai? (Opzione personalizzata)")
+        print(Fore.CYAN + "====================================")
+        input(Fore.YELLOW + "\nPremi Invio per continuare...")
 
-    else:
-        print(f"{Fore.RED}Scelta non valida!")
-
-
-
-
-        else:
-             print(Fore.RED + "\n❌ DIO
- CANE ERRORE. Check credentials/network.")
     elif choice == "0":
         print(Fore.YELLOW + "\n👋 ADDIO, É STATO BELLO CONOSCERTI BY MAZZU!")
         break
+
+    else:
+        print(Fore.RED + "\n❌ ERRORE. Scelta non valida o problema di rete.")
 
     else:
         print(Fore.RED + "\n❌ BRO, NON É UNA FOTTUTA OPZIONE, SEI PROPRIO FROCIO POTENTE SAI I NUMERI.")
