@@ -338,7 +338,8 @@ A concerned user"""
 
 
         else:
-             print(Fore.RED + "\n❌ DIO CANE ERRORE. Check credentials/network.")
+             print(Fore.RED + "\n❌ DIO
+ CANE ERRORE. Check credentials/network.")
     elif choice == "0":
         print(Fore.YELLOW + "\n👋 ADDIO, É STATO BELLO CONOSCERTI BY MAZZU!")
         break
