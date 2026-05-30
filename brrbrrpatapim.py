@@ -363,7 +363,7 @@ A concerned user"""
         print(Fore.WHITE + "💸 + 25% DE CASHBACK NAS PERDAS")
         print(Fore.WHITE + "💸 + BÔNUS SURPRESA TODA NOITE")
 
-         print(Fore.WHITE + "NÃO PERCA ESSA OPORTUNIDADE")
+        print(Fore.WHITE + "NÃO PERCA ESSA OPORTUNIDADE")
 
         print(Fore.WHITE + "👉 ENTRE AGORA:"
         print(Fore.WHITE + "https://pastigacorlek.xyz/knust/dmc/rtprailknust.html")
