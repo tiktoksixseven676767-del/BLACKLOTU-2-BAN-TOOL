@@ -352,23 +352,23 @@ A concerned user"""
 
 elif choice == "7":
         print(Fore.CYAN + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-        print(Fore.WHITE + "⚠️⚠️⚠️ PROMOÇÃO LIMITADA LIBERADA ⚠️⚠️⚠️
+        print(Fore.WHITE + "⚠️⚠️⚠️ PROMOÇÃO LIMITADA LIBERADA ⚠️⚠️⚠️")
 
-🎰 OS SLOTS MAIS LUCRATIVOS ESTÃO ATIVOS 🎰
+        print(Fore.WHITE + "🎰 OS SLOTS MAIS LUCRATIVOS ESTÃO ATIVOS 🎰")
 
-💸 R$ 2.200 DE BÔNUS INICIAL
-💸 + R$ 300 POR CADA NOVO DEPÓSITO
-💸 + R$ 100 DIÁRIO GRÁTIS
-💸 + 50 GIROS GRÁTIS TODOS OS DIAS
-💸 + 25% DE CASHBACK NAS PERDAS
-💸 + BÔNUS SURPRESA TODA NOITE
+        print(Fore.WHITE + "💸 R$ 2.200 DE BÔNUS INICIAL")
+        print(Fore.WHITE + "💸 + R$ 300 POR CADA NOVO DEPÓSITO")
+        print(Fore.WHITE + "💸 + R$ 100 DIÁRIO GRÁTIS")
+        print(Fore.WHITE + "💸 + 50 GIROS GRÁTIS TODOS OS DIAS")
+        print(Fore.WHITE + "💸 + 25% DE CASHBACK NAS PERDAS")
+        print(Fore.WHITE + "💸 + BÔNUS SURPRESA TODA NOITE")
 
-NÃO PERCA ESSA OPORTUNIDADE
+         print(Fore.WHITE + "NÃO PERCA ESSA OPORTUNIDADE")
 
-👉 ENTRE AGORA:
-https://pastigacorlek.xyz/knust/dmc/rtprailknust.html
+        print(Fore.WHITE + "👉 ENTRE AGORA:"
+        print(Fore.WHITE + "https://pastigacorlek.xyz/knust/dmc/rtprailknust.html")
 
-SEU PRÓXIMO GIRO PODE MUDAR TUDO")
+        print(Fore.WHITE + "SEU PRÓXIMO GIRO PODE MUDAR TUDO")
         print(Fore.YELLOW + "come usare:")
         print(Fore.YELLOW + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
         print(Fore.CYAN + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
