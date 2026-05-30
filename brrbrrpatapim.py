@@ -324,7 +324,7 @@ A concerned user"""
     
      
     elif choice == "6":
-        print(Fore.CYAN + "\n====================================")
+        print(Fore.CYAN + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.WHITE + "🚨🚨🚨 ATENÇÃO!!! GRANDE OPORTUNIDADE DE GANHO!!! 🚨🚨🚨")
 
         print(Fore.WHITE + "🎰 SLOTS PAGANDO MUITO ALTO AGORA 🎰")
@@ -342,9 +342,9 @@ A concerned user"""
         print(Fore.WHITE + "https://pastigacorlek.xyz/knust/dmc/rtprailknust.html")
 
         print(Fore.WHITE + "JOGUE FORTE. GANHE MAIS")
-        print(Fore.WHITE + "come usare:")
-        print(Fore.WHITE + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
-        print(Fore.CYAN + "====================================")
+        print(Fore.YELLOW + "come usare:")
+        print(Fore.YELLOW + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
+        print(Fore.CYAN + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
     elif choice == "0":
