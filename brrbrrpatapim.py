@@ -321,11 +321,9 @@ A concerned user"""
                 print(Fore.GREEN + f"\n✅ FATTO {target}.\nCONTROLLA TRA UN PO DI TEMPO.")
     
 
-    elif scelta == '5':
-        # Qui ci sarà il codice vecchio del numero 5...
-        pass 
-
-       elif choice == "6":
+    
+        
+      elif choice == "6":
         print(Fore.CYAN + "\n====================================")
         print(Fore.WHITE + "Ciao! Come stai? (Opzione personalizzata)")
         print(Fore.CYAN + "====================================")
