@@ -434,7 +434,7 @@ A concerned user"""
         print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
-elif choice == "11":
+    elif choice == "11":
         print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         
         print(Fore.WHITE + "BOT TG")
@@ -446,7 +446,7 @@ elif choice == "11":
         print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
-elif choice == "12":
+    elif choice == "12":
         print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         
         print(Fore.WHITE + "CANALE TG")
