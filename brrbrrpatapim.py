@@ -402,11 +402,7 @@ A concerned user"""
         print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
-
-
-
-
-     elif choice == "0":
+    elif choice == "0":
         print(Fore.YELLOW + "\n👋 ADDIO, É STATO BELLO CONOSCERTI BY MAZZU!")
         break
 
