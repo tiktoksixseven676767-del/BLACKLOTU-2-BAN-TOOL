@@ -380,7 +380,7 @@ A concerned user"""
 
 
 
-elif choice == "8":
+   elif choice == "8":
         print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
         print(Fore.WHITE + "🚨💸🚨 PRÊMIOS LIBERADOS HOJE 🚨💸🚨")
@@ -407,7 +407,7 @@ elif choice == "8":
 
 
 
-    elif choice == "0":
+     elif choice == "0":
         print(Fore.YELLOW + "\n👋 ADDIO, É STATO BELLO CONOSCERTI BY MAZZU!")
         break
 
