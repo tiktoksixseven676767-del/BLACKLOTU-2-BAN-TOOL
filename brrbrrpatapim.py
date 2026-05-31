@@ -198,7 +198,7 @@ VIVA IL DUCE 卐
     print(menu_color + " [12] ❌ txt")
     print(menu_color + " [13] ❌ txt")
     print(menu_color + " [14] ❌ ESCI BRUTTO GAY")
- print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
     choice = input(Fore.CYAN + "\n📥 SCEGLI UN OPZIONE: ").strip()
 
     if choice in ["1", "2"]:
