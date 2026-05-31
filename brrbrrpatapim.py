@@ -184,9 +184,9 @@ VIVA IL DUCE 卐
  
 
 ''')
-    print(PURPLE + "CANALE WHATSAPP: https://whatsapp.com/channel/0029VbBlJaR4NVimkJ9uEl43")
+    
   
-print(WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
     print(menu_color + " [1] 📩 SBANNA PER UN TOT DI TEMPO")
     print(menu_color + " [2] 🚫 SBANNA PER SEMPRE")
     print(menu_color + " [3] 🔍  CHECK BAN (PER ORA FUNZIONA MALE)")
