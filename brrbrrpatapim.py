@@ -191,7 +191,11 @@ VIVA IL DUCE 卐
 
     print(menu_color + " [7] 👌 TXT FAKECHAT 2 ")
 
-    print(menu_color + " [8] 🤨 TXT FAKECHAT 3 ")
+    print(menu_color + " [8] 😔 TXT FAKECHAT 3 ")
+    print(menu_color + " [9] 🤑 KALI MAKER BOT ")
+    print(menu_color + " [10] 🥳 KALI LINUX BOT ")
+    print(menu_color + " [11] 🤮 TRUECALLER BOT ")
+    print(menu_color + " [12] ❤️ FAKECHAT WHATSAPP")
     print(menu_color + " [0] ❌ ESCI BRUTTO GAY")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
@@ -401,6 +405,60 @@ A concerned user"""
         print(Fore.YELLOW + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
         print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
+
+
+    elif choice == "9":
+        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        
+        print(Fore.WHITE + "BOT TG")
+        print(Fore.WHITE + "@Kali_Maker_Bot")
+        print(Fore.WHITE + "kali maker")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.YELLOW + "come usare:")
+        print(Fore.YELLOW + "fai copia incolla su un una chat telegram, il testo diventera blu e ci clicchi sopra")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
+
+
+
+
+elif choice == "10":
+        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        
+        print(Fore.WHITE + "BOT TG")
+        print(Fore.WHITE + "@Kali_Linux_Robot")
+        print(Fore.WHITE + "kali linux")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.YELLOW + "come usare:")
+        print(Fore.YELLOW + "fai copia incolla su un una chat telegram, il testo diventera blu e ci clicchi sopra")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
+
+elif choice == "11":
+        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        
+        print(Fore.WHITE + "BOT TG")
+        print(Fore.WHITE + "@TrueCalleRobot")
+        print(Fore.WHITE + "truecaller🤮")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.YELLOW + "come usare:")
+        print(Fore.YELLOW + "fai copia incolla su un una chat telegram, il testo diventera blu e ci clicchi sopra")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
+
+elif choice == "12":
+        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        
+        print(Fore.WHITE + "CANALE TG")
+        print(Fore.WHITE + "https://t.me/WhatsApp_Modz")
+        print(Fore.WHITE + "whatsapp fakechat")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.YELLOW + "come usare:")
+        print(Fore.YELLOW + "fai copia incolla su un una chat telegram, il testo diventera blu e ci clicchi sopra")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
+
+
 
     elif choice == "0":
         print(Fore.YELLOW + "\n👋 ADDIO, É STATO BELLO CONOSCERTI BY MAZZU!")
