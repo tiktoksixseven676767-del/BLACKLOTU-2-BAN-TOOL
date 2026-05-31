@@ -406,5 +406,13 @@ A concerned user"""
         print(Fore.YELLOW + "\n👋 ADDIO, É STATO BELLO CONOSCERTI BY MAZZU!")
         break
 
+
+    elif scelta == "9":
+        link = "https://www.tuosito.it"
+        print(f"Apertura di {link}...")
+        os.system(f"termux-open-url {link}")
+
+
+
     else:
         print(Fore.RED + "\n❌ BRO, NON É UNA FOTTUTA OPZIONE, SEI PROPRIO FROCIO POTENTE SAI I NUMERI.")
