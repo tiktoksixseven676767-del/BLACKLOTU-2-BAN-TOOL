@@ -379,7 +379,7 @@ A concerned user"""
 
 
 
-elif choice == "7":
+elif choice == "8":
         print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
         print(Fore.WHITE + "🚨💸🚨 PRÊMIOS LIBERADOS HOJE 🚨💸🚨")
