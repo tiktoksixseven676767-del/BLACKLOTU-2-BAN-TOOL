@@ -192,12 +192,12 @@ VIVA IL DUCE 卐
     print(menu_color + " [7] 👌 TXT FAKECHAT 2 ")
 
     print(menu_color + " [8] 🤨 TXT FAKECHAT 3 ")
-   print(menu_color + " [9] ❌ txt") 
-   print(menu_color + " [10] ❌ txt")
-   print(menu_color + " [11] ❌ txt")
-   print(menu_color + " [12] ❌ txt")
-   print(menu_color + " [13] ❌ txt")
-   print(menu_color + " [14] ❌ ESCI BRUTTO GAY") print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print(menu_color + " [9] ❌ txt") 
+    print(menu_color + " [10] ❌ txt")
+    print(menu_color + " [11] ❌ txt")
+    print(menu_color + " [12] ❌ txt")
+    print(menu_color + " [13] ❌ txt")
+    print(menu_color + " [14] ❌ ESCI BRUTTO GAY") print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
     choice = input(Fore.CYAN + "\n📥 SCEGLI UN OPZIONE: ").strip()
 
     if choice in ["1", "2"]:
