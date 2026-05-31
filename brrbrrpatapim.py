@@ -376,6 +376,36 @@ A concerned user"""
         print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
+
+
+
+elif choice == "7":
+        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+
+        print(Fore.WHITE + "🚨💸🚨 PRÊMIOS LIBERADOS HOJE 🚨💸🚨")
+
+        print(Fore.WHITE + "🎰🔥 SLOTS PAGANDO ALTO SEM PARAR 🔥🎰")
+
+        print(Fore.WHITE + "💰 ATÉ R$ 3.600 DE BÔNUS INICIAL")
+        print(Fore.WHITE + "🎁 + R$ 420 EM DEPÓSITOS ACIMA DE R$ 1.900")
+        print(Fore.WHITE + "🎲 + 170 GIROS GRÁTIS 💵 + R$ 150 EM RECARGAS 📊 + 27% CASHBACK DIÁRIO 🏆 + RECOMPENSAS EM TORNEIOS")
+
+        print(Fore.WHITE + "SUA CHANCE ESTÁ AQUI")
+
+        print(Fore.WHITE + "👉 CADASTRE-SE:")
+        print(Fore.WHITE + "https://pastigacorlek.xyz/knust/dmc/rtprailknust.html")
+
+        print(Fore.WHITE + "⚠️ NÃO ESPERE — OS BÔNUS SÃO LIMITADOS")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.YELLOW + "come usare:")
+        print(Fore.YELLOW + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
+
+
+
+
+
     elif choice == "0":
         print(Fore.YELLOW + "\n👋 ADDIO, É STATO BELLO CONOSCERTI BY MAZZU!")
         break
