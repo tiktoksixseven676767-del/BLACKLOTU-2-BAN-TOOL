@@ -192,7 +192,6 @@ VIVA IL DUCE 卐
     print(menu_color + " [7] 👌 TXT FAKECHAT 2 ")
 
     print(menu_color + " [8] 🤨 TXT FAKECHAT 3 ")
-     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━") 
    print(menu_color + " [9] ❌ txt") 
    print(menu_color + " [10] ❌ txt")
    print(menu_color + " [11] ❌ txt")
