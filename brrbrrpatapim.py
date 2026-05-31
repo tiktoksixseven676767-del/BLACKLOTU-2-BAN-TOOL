@@ -86,6 +86,13 @@ def check_whatsapp_number(phone):
         except Exception:
             pass
 
+PURPLE = '\033[95m'
+
+
+
+
+
+
 # ===== Email Sender Helper =====
 def send_email(subject, body, max_emails=None):
     """
