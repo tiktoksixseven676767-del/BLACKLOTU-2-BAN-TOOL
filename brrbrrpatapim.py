@@ -192,9 +192,13 @@ VIVA IL DUCE 卐
     print(menu_color + " [7] 👌 TXT FAKECHAT 2 ")
 
     print(menu_color + " [8] 🤨 TXT FAKECHAT 3 ")
-    print(menu_color + " [0] ❌ ESCI BRUTTO GAY")
-    print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-
+     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━") 
+   print(menu_color + " [9] ❌ txt") 
+   print(menu_color + " [10] ❌ txt")
+   print(menu_color + " [11] ❌ txt")
+   print(menu_color + " [12] ❌ txt")
+   print(menu_color + " [13] ❌ txt")
+   print(menu_color + " [14] ❌ ESCI BRUTTO GAY") print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
     choice = input(Fore.CYAN + "\n📥 SCEGLI UN OPZIONE: ").strip()
 
     if choice in ["1", "2"]:
@@ -401,6 +405,14 @@ A concerned user"""
         print(Fore.YELLOW + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
         print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
+
+
+    elif scelta == "9":
+        link = "https://www.tuosito.it"
+        print(f"Apertura di {link}...")
+        os.system(f"termux-open-url {link}")
+
+
 
     elif choice == "0":
         print(Fore.YELLOW + "\n👋 ADDIO, É STATO BELLO CONOSCERTI BY MAZZU!")
