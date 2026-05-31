@@ -265,7 +265,7 @@ With sincere gratitude.
 
         input(Fore.CYAN + "\n🔁 PREMI INVIO PER TORNARE AL MENU...")
 
-    elif choice == "3":
+elif choice == "3":
         clear()
         print(menu_color + "🔍 WHATSAPP CECK BAN (ROTTO PER COLPA DELL API)\n")
         phone = input("📞 Enter the WhatsApp number (e.g., +2348123456789): ")
@@ -274,7 +274,7 @@ With sincere gratitude.
         check_whatsapp_number(phone)
         input(Fore.CYAN + "\n🔁 Press Enter to return to menu...")
 
-    elif choice == "4":
+elif choice == "4":
         target = input("📞 METTI UN NUMERO: ").strip()
         confirm = input(f"⚠️ SEI SICURO ?{target}? (y/n): ").lower()
         if confirm == "y":
@@ -291,7 +291,7 @@ Please investigate and take action."""
                 print(Fore.RED + "\n❌ ERRORE. Check credentials/network.")
         input(Fore.CYAN + "\n🔁 PREMI INVIO...")
 
-    elif choice == "5":
+elif choice == "5":
         target = input("📞 METTI NUMERO DI TELEFONO: ").strip()
         confirm = input(f"⚠️ CONFERMA DI BANNARE {target}? (y/n): ").lower()
         if confirm == "y":
@@ -330,7 +330,7 @@ A concerned user"""
 
     
      
-    elif choice == "6":
+elif choice == "6":
         print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.WHITE + "🚨🚨🚨 ATENÇÃO!!! GRANDE OPORTUNIDADE DE GANHO!!! 🚨🚨🚨")
 
@@ -356,7 +356,7 @@ A concerned user"""
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
 
-    elif choice == "7":
+elif choice == "7":
         print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.WHITE + "⚠️⚠️⚠️ PROMOÇÃO LIMITADA LIBERADA ⚠️⚠️⚠️")
 
@@ -383,7 +383,7 @@ A concerned user"""
 
 
 
-    elif choice == "8":
+elif choice == "8":
         print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
         print(Fore.WHITE + "🚨💸🚨 PRÊMIOS LIBERADOS HOJE 🚨💸🚨")
@@ -407,14 +407,13 @@ A concerned user"""
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
 
-    elif scelta == "9":
+elif scelta == "9":
         link = "https://www.tuosito.it"
         print(f"Apertura di {link}...")
         os.system(f"termux-open-url {link}")
 
 
-
-    elif choice == "0":
+elif choice == "0":
         print(Fore.YELLOW + "\n👋 ADDIO, É STATO BELLO CONOSCERTI BY MAZZU!")
         break
 
