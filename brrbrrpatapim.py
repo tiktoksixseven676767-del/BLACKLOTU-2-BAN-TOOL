@@ -208,9 +208,10 @@ VIVA IL DUCE 卐
     print(menu_color + " [6] 🫤 TXT FAKECHAT 1 ")
 
     print(menu_color + " [7] 👌 TXT FAKECHAT 2 ")
-    print("━━━━━━━━━━━━━TELEGRAM BOT━━━━━━━━━━━━━")
+    
 
     print(menu_color + " [8] 😔 TXT FAKECHAT 3 ")
+    print("━━━━━━━━━━━━━TELEGRAM BOT━━━━━━━━━━━━━")
     print(menu_color + " [9] 🤑 KALI MAKER BOT ")
     print(menu_color + " [10] 🥳 KALI LINUX BOT ")
     print(menu_color + " [11] 🤮 TRUECALLER BOT ")
@@ -350,7 +351,7 @@ A concerned user"""
 
 
     elif choice == "6":
-        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.WHITE + "🚨🚨🚨 ATENÇÃO!!! GRANDE OPORTUNIDADE DE GANHO!!! 🚨🚨🚨")
 
         print(Fore.WHITE + "🎰 SLOTS PAGANDO MUITO ALTO AGORA 🎰")
