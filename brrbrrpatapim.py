@@ -368,15 +368,15 @@ A concerned user"""
         print(Fore.WHITE + "https://pastigacorlek.xyz/knust/dmc/rtprailknust.html")
 
         print(Fore.WHITE + "JOGUE FORTE. GANHE MAIS")
-        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.YELLOW + "come usare:")
         print(Fore.YELLOW + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
-        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
 
     elif choice == "7":
-        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.WHITE + "⚠️⚠️⚠️ PROMOÇÃO LIMITADA LIBERADA ⚠️⚠️⚠️")
 
         print(Fore.WHITE + "🎰 OS SLOTS MAIS LUCRATIVOS ESTÃO ATIVOS 🎰")
@@ -394,7 +394,7 @@ A concerned user"""
         print(Fore.WHITE + "https://pastigacorlek.xyz/knust/dmc/rtprailknust.html")
 
         print(Fore.WHITE + "SEU PRÓXIMO GIRO PODE MUDAR TUDO")
-        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.YELLOW + "come usare:")
         print(Fore.YELLOW + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
         print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
@@ -403,7 +403,7 @@ A concerned user"""
 
 
     elif choice == "8":
-        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
         print(Fore.WHITE + "🚨💸🚨 PRÊMIOS LIBERADOS HOJE 🚨💸🚨")
 
@@ -419,62 +419,62 @@ A concerned user"""
         print(Fore.WHITE + "https://pastigacorlek.xyz/knust/dmc/rtprailknust.html")
 
         print(Fore.WHITE + "⚠️ NÃO ESPERE — OS BÔNUS SÃO LIMITADOS")
-        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.YELLOW + "come usare:")
         print(Fore.YELLOW + "fai copia incolla su un fakechat, la persona dopo segnialata dovrebbe andare in ban")
-        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
 
     elif choice == "9":
-        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         
         print(Fore.WHITE + "BOT TG")
         print(Fore.WHITE + "@Kali_Maker_Bot")
         print(Fore.WHITE + "kali maker")
-        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.YELLOW + "come usare:")
         print(Fore.YELLOW + "fai copia incolla su un una chat telegram, il testo diventera blu e ci clicchi sopra")
-        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
 
 
 
     elif choice == "10":
-        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         
         print(Fore.WHITE + "BOT TG")
         print(Fore.WHITE + "@Kali_Linux_Robot")
         print(Fore.WHITE + "kali linux")
-        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.YELLOW + "come usare:")
         print(Fore.YELLOW + "fai copia incolla su un una chat telegram, il testo diventera blu e ci clicchi sopra")
-        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
     elif choice == "11":
-        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         
         print(Fore.WHITE + "BOT TG")
         print(Fore.WHITE + "@TrueCalleRobot")
         print(Fore.WHITE + "truecaller🤮")
-        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.YELLOW + "come usare:")
         print(Fore.YELLOW + "fai copia incolla su un una chat telegram, il testo diventera blu e ci clicchi sopra")
-        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
     elif choice == "12":
-        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         
         print(Fore.WHITE + "CANALE TG")
         print(Fore.WHITE + "https://t.me/WhatsApp_Modz")
         print(Fore.WHITE + "whatsapp fakechat")
-        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         print(Fore.YELLOW + "come usare:")
         print(Fore.YELLOW + "fai copia incolla su un una chat telegram, il testo diventera blu e ci clicchi sopra")
-        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print(Fore.WHITE + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         input(Fore.YELLOW + "\nPremi Invio per tornare al menu...")
 
 
