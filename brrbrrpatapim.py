@@ -198,7 +198,7 @@ VIVA IL DUCE 卐
 ''')
 
     print(PURPLE + "CANALE WHATSAPP: https://whatsapp.com/channel/0029VbBlJaR4NVimkJ9uEl43")
-    print("━━━━━━━━━━━━━━METODI BAN━━━━━━━━━━━━━")
+    print("━━━━━━━━━━━━━━METODI BAN━━━━━━━━━━━━━━")
     
     print(menu_color + " [1] 📩 SBANNA PER UN TOT DI TEMPO")
     print(menu_color + " [2] 🚫 SBANNA PER SEMPRE")
@@ -216,7 +216,7 @@ VIVA IL DUCE 卐
     print(menu_color + " [11] 🤮 TRUECALLER BOT ")
     print(menu_color + " [12] 🤯 FAKECHAT WHATSAPP")
     print(menu_color + " [0] ❌ ESCI BRUTTO GAY")
-    print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
     choice = input(Fore.CYAN + "\n📥 SCEGLI UN OPZIONE: ").strip()
 
