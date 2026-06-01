@@ -200,8 +200,7 @@ VIVA IL DUCE 卐
     print(PURPLE + "")
     print(PURPLE + "TELEGRAM CREATORE: t.me/MAZZU1234567")
     print(PURPLE + "")
-    print(PURPLE + "CANALE WHATSAPP: https://whatsapp.com/channel/0029VbBlJaR4NVimkJ9uEl43
-")
+    print(PURPLE + "CANALE WHATSAPP: https://whatsapp.com/channel/0029VbBlJaR4NVimkJ9uEl43")
     print(PURPLE + "")
     print("━━━━━━━━━━━━━━METODI BAN━━━━━━━━━━━━━━")
     
