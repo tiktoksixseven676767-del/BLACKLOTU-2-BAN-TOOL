@@ -198,7 +198,8 @@ VIVA IL DUCE 卐
 ''')
 
     print(PURPLE + "CANALE WHATSAPP: https://whatsapp.com/channel/0029VbBlJaR4NVimkJ9uEl43")
-    print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print("━━━━━━━━━━━━━━━METODI BAN━━━━━━━━━━━━━")
+    
     print(menu_color + " [1] 📩 SBANNA PER UN TOT DI TEMPO")
     print(menu_color + " [2] 🚫 SBANNA PER SEMPRE")
     print(menu_color + " [3] 🔍  CHECK BAN (PER ORA FUNZIONA MALE)")
@@ -207,12 +208,13 @@ VIVA IL DUCE 卐
     print(menu_color + " [6] 🫤 TXT FAKECHAT 1 ")
 
     print(menu_color + " [7] 👌 TXT FAKECHAT 2 ")
+    print("━━━━━━━━━━━━━TELEGRAM BOT━━━━━━━━━━━━━")
 
     print(menu_color + " [8] 😔 TXT FAKECHAT 3 ")
     print(menu_color + " [9] 🤑 KALI MAKER BOT ")
     print(menu_color + " [10] 🥳 KALI LINUX BOT ")
     print(menu_color + " [11] 🤮 TRUECALLER BOT ")
-    print(menu_color + " [12] ❤️ FAKECHAT WHATSAPP")
+    print(menu_color + " [12] 🤯 FAKECHAT WHATSAPP")
     print(menu_color + " [0] ❌ ESCI BRUTTO GAY")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
