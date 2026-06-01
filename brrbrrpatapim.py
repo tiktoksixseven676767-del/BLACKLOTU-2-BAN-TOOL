@@ -216,7 +216,7 @@ VIVA IL DUCE 卐
     print(menu_color + " [11] 🤮 TRUECALLER BOT ")
     print(menu_color + " [12] 🤯 FAKECHAT WHATSAPP")
     print(menu_color + " [0] ❌ ESCI BRUTTO GAY")
-    print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
     choice = input(Fore.CYAN + "\n📥 SCEGLI UN OPZIONE: ").strip()
 
